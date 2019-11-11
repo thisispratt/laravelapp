@@ -7,7 +7,7 @@
     <title>ATG-task</title>
 
     <link rel="stylesheet" href="/css/app.css">
-    <link rel="stylesheet" href="/resources/sass/app.css">
+    <link rel="stylesheet" href="/resources/sass/app.scss">
 </head>
 <body>
     @include('/inc/navbar')

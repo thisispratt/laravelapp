@@ -11146,8 +11146,8 @@ body {
 }
 
 .wrapper {
-  margin: 15vh auto;
-  min-height: 100vh;
+  margin: 15vh auto 0vh auto;
+  min-height: 90vh;
   text-align: center;
 }
 
